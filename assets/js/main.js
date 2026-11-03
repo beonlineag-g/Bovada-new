@@ -45,7 +45,7 @@ if(form){
   bd.className = 'modal-backdrop';
   bd.innerHTML = `
     <div class="modal">
-      <h3>Your Cookie Settings</h3>
+      <h3>Bovada Your Cookie Settings</h3>
       <p>Our system requries cookies to function. Some are technical necessart, while others can be adjusted by you in the settings. Find out more in our privacy .</p>
       <div style="display:flex;gap:10px;flex-wrap:wrap">
         <button class="btn" id="age-yes">Accept Cookies</button>
